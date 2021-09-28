@@ -1,0 +1,28 @@
+{
+    "name": "lase-peco/datatables",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdulsalam Emesh",
+            "email": "a.emesh@lase-peco.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LasePeCo\\Datatables\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "LasePeCo\\Datatables\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "orchestra/testbench": "^6.21"
+    },
+    "require": {
+        "livewire/livewire": "^2.6"
+    }
+}
