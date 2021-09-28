@@ -38,5 +38,7 @@
     </logging>
     <php>
         <env name="APP_KEY" value="base64:U+n7xpqtTg1RSok+/3Ikoq1WfYQMG5rrA7VWIOybyEE="/>
+        <env name="DB_CONNECTION" value="sqlite"/>
+        <env name="DB_DATABASE" value=":memory:"/>
     </php>
 </phpunit>

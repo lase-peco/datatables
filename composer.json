@@ -20,7 +20,8 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
-        "orchestra/testbench": "^6.21"
+        "orchestra/testbench": "^6.21",
+        "laravel/legacy-factories": "1.0.4"
     },
     "require": {
         "livewire/livewire": "^2.6"
