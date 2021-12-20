@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2021 LASE PeCo Systemtechnik GmbH
+Copyright (c) Ahmed Dabak
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
