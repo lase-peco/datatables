@@ -1,4 +1,4 @@
-<img src="https://banners.beyondco.de/Datatables.png?theme=light&packageManager=composer+require&packageName=lase-peco%2Fdatatables&pattern=architect&style=style_1&description=Built+with+Livewire%2C+made+easy+to+use&md=1&showWatermark=1&fontSize=150px&images=table"/>
+<img src="https://banners.beyondco.de/Datatables.png?theme=light&packageManager=composer+require&packageName=lase-peco%2Fdatatables&pattern=architect&style=style_1&description=Built+with+Livewire%2C+made+easy+to+use&md=1&fontSize=150px&images=table"/>
 
 # Datatables on steroids 💥
 
