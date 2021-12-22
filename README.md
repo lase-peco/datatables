@@ -2,7 +2,7 @@
 
 # Datatables on steroids 💥
 
-The ``lase-peco/datatables`` adds robust and easy to customize datatables build with the Laravel Livewire library.
+The `lase-peco/datatables` adds robust and easy to customize datatables build with the Laravel Livewire library.
 
 ## Note 
 We are still working on this package to bring new features.
@@ -17,7 +17,7 @@ We are still working on this package to bring new features.
 
 You can install the package via composer:
 
-```php 
+```bash 
 composer require lase-peco/datatables
 ```
 
@@ -79,6 +79,7 @@ If you discover any security related issues, please email a.dabak@lase-peco.com 
 
 ## Credits
 
+- [Abdulsalam Emesh](https://github.com/lase-peco)
 - [Ahmed Dabak](https://github.com/lase-peco)
 - [All Contributors](CONTRIBUTING.md)
 
